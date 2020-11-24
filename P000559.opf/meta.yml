@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG16610
   title: བྱང་ཆུབ་སེམས་དཔའི་ས་དང་ཚོམས་ཞེས་བྱ་བ།
-  volume: ''
+  volume:
+    b6bf48f353ed4728b64c3c8310379152:
+      image_group_id: I1KG16646
+      title: Volume 1 of byang chub sems dpa'i sa dang tshoms zhes bya ba/
+      volume_number: 1
+      total_pages: 596
   author: ''
+ebook_metadata:
+  title: བྱང་ཆུབ་སེམས་དཔའི་ས་དང་ཚོམས་ཞེས་བྱ་བ།
+  author: ''
+  sku: P000559
+  cover: cover.jpg
+  layers:
+  - pagination
